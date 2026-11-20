@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+dataset/
+results/
+*.zip
+.env
+.streamlit/secrets.toml
+models/*
+!models/mobilenetv3_silkworm_baseline.pth
