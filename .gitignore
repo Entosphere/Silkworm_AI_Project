@@ -8,3 +8,6 @@ results/
 .streamlit/secrets.toml
 models/*
 !models/mobilenetv3_silkworm_baseline.pth
+
+!models/mobilenetv3_silkworm_detector.pth
+!models/mobilenetv3_model3_disease.pth
